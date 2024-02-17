@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813658925682",
+    "project_id": "shoping-9e330",
+    "storage_bucket": "shoping-9e330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813658925682:android:17118aef541c9ebe0770eb",
+        "android_client_info": {
+          "package_name": "com.example.amnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7Bfoi3Jjd3xnU9Q9cgcnVmJXD0_Fg8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813658925682:android:d84f282911eda46e0770eb",
+        "android_client_info": {
+          "package_name": "com.example.shoping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr7Bfoi3Jjd3xnU9Q9cgcnVmJXD0_Fg8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
